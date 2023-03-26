@@ -1,0 +1,8 @@
+.places {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 148px;
+    margin-top: 92px;
+    min-width: 984px;
+}

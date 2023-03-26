@@ -1,0 +1,13 @@
+.cover__overplay {
+    background: #2A2C2F;
+    opacity: 0.3;
+    position: absolute;
+    width: 100%;
+    height: 740px;
+    top: 0;
+    z-index: 2;
+    
+}
+.cover__overplay:hover {
+    opacity: 0.8;
+}

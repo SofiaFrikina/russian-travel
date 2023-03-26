@@ -1,0 +1,14 @@
+.lead__image {
+    width: 100%;
+    min-height: 615px;
+    
+    
+}
+
+@media screen and (width: 1280px) {
+    .lead__image {
+        margin-left: 148px;
+        margin-right: 148px;
+    }
+}
+    

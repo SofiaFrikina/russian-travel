@@ -1,0 +1,11 @@
+.place {
+    display: grid;
+    grid-template-areas: 
+    'place__title place__website'
+    'place__image place__paragraphs';
+    margin-top: 80px;
+    column-gap: 40px;
+}
+.place:first-child {
+    margin-top: 0;
+}
