@@ -7,7 +7,6 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     margin: 0;
-    margin-left: 148px;
     margin-top: 8px;
     color: #FFFFFF;
     
@@ -29,5 +28,6 @@
 @media screen and (max-width: 320px) {
     .lead__caption {
         margin-left: 16px;
+        width: 288px;
     }
 }
