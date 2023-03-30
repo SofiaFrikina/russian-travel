@@ -5,3 +5,19 @@
     gap: 26px;
     width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+    .place__paragraphs {
+        gap: 25px;
+
+
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__paragraphs {
+        gap: 25px;
+        width: 288px;
+        margin: 0 16px;
+    }
+}

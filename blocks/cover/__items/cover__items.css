@@ -1,0 +1,32 @@
+.cover__items {
+    height: 740px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background: rgb(0 0 0 / 30%);
+}
+
+.cover__items:hover {
+    background: rgb(0 0 0 / 80%);
+}
+
+@media screen and (max-width: 1024px) {
+    .cover__items {
+        height: 640px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover__items {
+        height: 480px;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    .cover__items {
+        height: 200px;
+    }
+}

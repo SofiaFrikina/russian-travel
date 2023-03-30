@@ -1,5 +1,37 @@
 .intro {
-    margin-top: 114px;
-    width: 690px;
-    margin-left: 148px;
+    margin: 0 auto;
+    margin-top: 92px;;
+    width: calc(100% - 296px);
 }
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        width: calc(100% - 96px);
+        
+        
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        width: calc(100% - 48px);
+        margin-top: 88px;
+        margin-left: 24px;
+        
+        
+    }
+    
+}
+
+@media screen and (max-width: 320px) {
+    .intro {
+        width: calc(100% - 16px);
+        margin-top: 64px;
+        margin-left: 16px;
+        
+        
+    }
+    
+}
+

@@ -2,17 +2,33 @@
     display: inline-block;
     text-align: center;
     width: 720px;
-    margin: 0;
-    align-self: center;
-    margin-left: 132px;
-    margin-right: 132px;
+    margin: 0 auto;
+    font-family: 'Inter';
     margin-bottom: 32px;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
-    line-height: 100px;
+    line-height: 1.04;
     color: #FFFFFF;
-    
-    
 
+
+}
+
+@media screen and (max-width: 768px) {
+    .lead__title {
+        max-width: 94%;
+    }
+}
+
+
+
+
+@media screen and (max-width: 320px) {
+    .lead__title {
+        margin-bottom: 16px;
+        font-size: 40px;
+        line-height: 1.1;
+        max-width: 288px;
+        
+    }
 }
