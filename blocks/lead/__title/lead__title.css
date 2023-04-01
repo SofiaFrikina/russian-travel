@@ -1,7 +1,7 @@
 .lead__title {
     display: inline-block;
     text-align: center;
-    width: 720px;
+    max-width: 720px;
     margin: 0 auto;
     font-family: 'Inter';
     margin-bottom: 32px;
@@ -14,11 +14,10 @@
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 675px) {
     .lead__title {
-        width: 720px;
-        margin-left: 24px;
-        align-self: center;
+        font-size: 13vw;
+        
     }
 }
 
@@ -30,7 +29,7 @@
         margin-bottom: 16px;
         font-size: 40px;
         line-height: 1.1;
-        width: 288px;
+        max-width: 288px;
         margin-left: 16px;
         
     }

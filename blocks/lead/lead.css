@@ -17,8 +17,7 @@
 
 @media screen and (max-width: 768px) {
     .lead {
-        width: 768px;
-        margin: 0;
+        max-width: 100%;
         margin-top: 48px;
 
     }
@@ -26,8 +25,6 @@
 
 @media screen and (max-width: 320px) {
     .lead {
-        width: 320px;
-        margin: 0;
         margin-top: 48px;
 
     }
