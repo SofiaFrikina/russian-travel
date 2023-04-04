@@ -23,4 +23,8 @@ ___
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ___
 ## [Ссылка на проект 👉🏻](https://sofiafrikina.github.io/russian-travel/index.html)
+<<<<<<< HEAD
 ## [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=63326%3A0&t=oZvTKi7EXXgcgntS-1)
+=======
+## [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=63326%3A0&t=oZvTKi7EXXgcgntS-1)
+>>>>>>> 2201f18b336195ce1c19895d49df229ab7f36435
