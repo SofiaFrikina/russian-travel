@@ -22,5 +22,5 @@ ___
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ___
-## [Ссылка на проект 👉🏻] ()
-## [Макет в Figma] (https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=63326%3A0&t=oZvTKi7EXXgcgntS-1)
+## [Ссылка на проект 👉🏻](https://sofiafrikina.github.io/russian-travel/index.html)
+## [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=63326%3A0&t=oZvTKi7EXXgcgntS-1)
