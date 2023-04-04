@@ -3,5 +3,8 @@
     display: flex;
     gap: 18px;
     flex-direction: row;
-    align-self: flex-end;
+    margin-top: 18px;
+    
+    
 }
+

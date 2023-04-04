@@ -7,6 +7,7 @@
     justify-content: space-between;
     
     
+    
 }
 
 @media screen and (max-width: 1024px) {
@@ -24,6 +25,7 @@
 @media screen and (max-width: 320px) {
     .header {
         max-width: calc(100% - 32px);
+        margin-top: 16px;
     }
 }
 

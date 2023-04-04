@@ -27,11 +27,3 @@
     
 }
 
-@media screen and (max-width: 320px) {
-    .footer {
-        margin-top: 64px;
-        max-width: calc(100% - 32px);
-        flex-direction: column;
-    }
-    
-}
